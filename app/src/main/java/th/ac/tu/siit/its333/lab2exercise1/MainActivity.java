@@ -106,7 +106,7 @@ public class MainActivity extends ActionBarActivity {
         updateExprDisplay();
 
 
-        tvAns.setText("0");
+        tvAns.setText(expr);
     }
 
     public void MClicked (View v) {
